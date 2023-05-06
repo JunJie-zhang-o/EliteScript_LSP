@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.cir
+resources/
+**/third_party/
+test/
+.vscode
